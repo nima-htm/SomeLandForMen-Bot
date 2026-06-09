@@ -3,3 +3,4 @@ https://www.infoq.com/presentations/automate-fleetwide-changes/?utm_campaign=inf
 https://www.omgubuntu.co.uk/2026/06/euro-office-ooxml-libreoffice
 https://github.com/luke8086/gentleos32
 https://www.linuxtoday.com/blog/tails-7-7-3-emergency-release-fixes-dirty-frag-vulnerability/
+https://thenextweb.com/news/apple-third-generation-foundation-models-afm
