@@ -20,6 +20,7 @@ It runs efficiently on GitHub Actions with built-in human-like behavior simulati
 ## Setup Environment
 Clone the project and setup environment varibales like this:
 ```text
+SomeLandforMen-Bot
 └── .env
 ```
 
