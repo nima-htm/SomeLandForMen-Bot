@@ -227,17 +227,18 @@ def main():
 
 
     try:
-        POSTS_PER_RUN = 1
-        DELAY_BETWEEN_POSTS = 7200
+
         current_history = load_history()
 
-        for i in range(POSTS_PER_RUN):
-            print(f"\n--- Packaged Post Execution {i + 1}/{POSTS_PER_RUN} ---")
-            success = process_single_post(current_history)
+        random_delay = random.randint(30, 600)  # بین ۳۰ ثانیه تا ۱۰ دقیقه
+        print(f"⏳ Random delay to mimic human behavior: {random_delay} seconds")
+        time.sleep(random_delay)
 
-            if i < POSTS_PER_RUN - 1 and success:
-                print(f"💤 Sleeping for {DELAY_BETWEEN_POSTS} seconds (2 hours) before next post...")
-                time.sleep(DELAY_BETWEEN_POSTS)
+
+        success = process_single_post(current_history)
+        if success:
+            print(f"💤 Post is ok now!")
+
 
     except Exception as e:
         print(f"Fatal unknown err: {str(e)}")
