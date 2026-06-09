@@ -113,11 +113,7 @@ def main():
 
         print("Sending to Telegram...")
         telegram_url = f"https://api.telegram.org/{TELEGRAM_TOKEN}/sendMessage"
-        telegram_data = {
-            "chat_id": CHANNEL_ID,
-            "text": final_post,
-            "parse_mode": "Markdown"
-        }
+        telegram_data = {"chat_id": CHANNEL_ID, "text": final_post, "parse_mode": "HTML"}
 
         telegram_res = requests.post(telegram_url, json=telegram_data, timeout=15)
 
