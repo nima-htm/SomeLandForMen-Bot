@@ -9,3 +9,4 @@ https://thenextweb.com/news/zaro-5-1m-pre-seed-agentforce-team-enterprise-ai
 https://www.infoq.com/news/2026/06/ibm-hashicorp-vault-ldap-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 https://www.omgubuntu.co.uk/2026/06/proton-drive-linux-client
 https://www.phoronix.com/news/Alpine-Linux-3.24
+https://github.com/apple/container/blob/main/docs/container-machine.md
