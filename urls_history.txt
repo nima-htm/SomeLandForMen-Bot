@@ -12,3 +12,4 @@ https://www.phoronix.com/news/Alpine-Linux-3.24
 https://github.com/apple/container/blob/main/docs/container-machine.md
 https://thenextweb.com/news/01health-raises-11-2m-to-turn-its-dental-ai-platform-into-infrastructure-for-specialist-care
 https://github.com/anthropics/claude-code/issues/29045
+https://www.infoq.com/news/2026/06/postgresql-pg-durable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
