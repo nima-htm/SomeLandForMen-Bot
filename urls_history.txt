@@ -15,3 +15,4 @@ https://github.com/anthropics/claude-code/issues/29045
 https://www.infoq.com/news/2026/06/postgresql-pg-durable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 https://www.phoronix.com/news/OpenJPH-0.28-Released
 https://www.omgubuntu.co.uk/2026/06/microsoft-release-windows-coreutils
+https://www.infoq.com/news/2026/06/slack-ssh-rest-quarry-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
