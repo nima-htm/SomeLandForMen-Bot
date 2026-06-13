@@ -21,3 +21,4 @@ https://www.linuxtoday.com/blog/wine-11-9-improves-native-wayland-gaming-support
 https://www.linuxtoday.com/blog/fragnesia-ssh-keysign%e2%80%91pwn-and-the-month-of-living-dangerously-on-linux/
 https://www.omgubuntu.co.uk/2026/06/libreoffice-tabbed-ui-backgrounds
 https://www.infoq.com/news/2026/06/cdk-mixins-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+https://www.infoq.com/news/2026/06/terraform-mcp-server-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
