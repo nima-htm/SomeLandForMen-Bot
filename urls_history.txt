@@ -17,3 +17,4 @@ https://www.phoronix.com/news/OpenJPH-0.28-Released
 https://www.omgubuntu.co.uk/2026/06/microsoft-release-windows-coreutils
 https://www.infoq.com/news/2026/06/slack-ssh-rest-quarry-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 https://www.linuxtoday.com/blog/shelly-2-3-gui-package-manager-for-arch-linux-brings-performance-improvements/
+https://www.linuxtoday.com/blog/wine-11-9-improves-native-wayland-gaming-support/
