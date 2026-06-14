@@ -23,3 +23,4 @@ https://www.omgubuntu.co.uk/2026/06/libreoffice-tabbed-ui-backgrounds
 https://www.infoq.com/news/2026/06/cdk-mixins-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 https://www.infoq.com/news/2026/06/terraform-mcp-server-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 https://www.omgubuntu.co.uk/2026/06/mozilla-firefox-android-google-play-integrity
+https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
