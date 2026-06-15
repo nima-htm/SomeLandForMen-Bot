@@ -26,3 +26,4 @@ https://www.omgubuntu.co.uk/2026/06/mozilla-firefox-android-google-play-integrit
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 https://www.phoronix.com/news/Linux-7.1-Released
 https://www.infoq.com/news/2026/06/elasticache-valkey-durability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+https://www.infoq.com/news/2026/06/claude-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
