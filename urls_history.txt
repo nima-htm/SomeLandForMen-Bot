@@ -29,3 +29,4 @@ https://www.infoq.com/news/2026/06/elasticache-valkey-durability/?utm_campaign=i
 https://www.infoq.com/news/2026/06/claude-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 https://www.linuxtoday.com/blog/lyrie-open-source-autonomous-pentesting-agent/
 https://www.linuxtoday.com/blog/minisforum-m2-intel-panther-lake-mini-pc-running-linux-introduction/
+https://www.phoronix.com/news/Linux-7.2-IOmap-EXT4-XFS
