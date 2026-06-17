@@ -34,3 +34,4 @@ https://thenextweb.com/news/snap-specs-ar-glasses-2195-consumer-launch-augmented
 https://www.infoq.com/presentations/parallel-agents-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index
 https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
+https://www.phoronix.com/news/Bcachefs-Tools-1.38.6
