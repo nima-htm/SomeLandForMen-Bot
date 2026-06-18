@@ -36,3 +36,4 @@ https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-m
 https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
 https://www.phoronix.com/news/Bcachefs-Tools-1.38.6
 https://thenextweb.com/news/parafin-goldman-sachs-credit-facility-embedded-lending
+https://www.linuxtoday.com/blog/cve-lite-cli-open-source-dependency-vulnerability-scanner/
