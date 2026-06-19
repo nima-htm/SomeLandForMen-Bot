@@ -40,3 +40,4 @@ https://www.linuxtoday.com/blog/cve-lite-cli-open-source-dependency-vulnerabilit
 https://www.submission.directory/
 https://www.phoronix.com/news/Linux-7.2-Media
 https://www.linuxtoday.com/blog/firefox-is-getting-a-new-look-later-this-year/
+https://thenextweb.com/news/uk-information-commissioner-john-edwards-resigns-ico
