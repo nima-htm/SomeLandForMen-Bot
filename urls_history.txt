@@ -39,3 +39,4 @@ https://thenextweb.com/news/parafin-goldman-sachs-credit-facility-embedded-lendi
 https://www.linuxtoday.com/blog/cve-lite-cli-open-source-dependency-vulnerability-scanner/
 https://www.submission.directory/
 https://www.phoronix.com/news/Linux-7.2-Media
+https://www.linuxtoday.com/blog/firefox-is-getting-a-new-look-later-this-year/
