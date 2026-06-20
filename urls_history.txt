@@ -43,3 +43,4 @@ https://www.linuxtoday.com/blog/firefox-is-getting-a-new-look-later-this-year/
 https://thenextweb.com/news/uk-information-commissioner-john-edwards-resigns-ico
 https://thenextweb.com/news/amazon-drops-artificial-sam-altman-openai-film-guadagnino
 https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/
+https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/
