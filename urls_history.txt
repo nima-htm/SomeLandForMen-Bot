@@ -51,3 +51,4 @@ https://www.linuxtoday.com/blog/peladn-wo4-5600h-mini-pc-introduction-to-the-ser
 https://www.infoq.com/news/2026/06/forge-billing-usage-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 https://thenextweb.com/news/amazon-human-in-the-loop-ai-governance-normalization-deviance
 https://www.phoronix.com/news/HP-EliteBook-X-G2q-Linux
+https://hawksley.dev/blog/json-ld-explained-for-personal-websites/
