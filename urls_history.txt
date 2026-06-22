@@ -54,3 +54,4 @@ https://www.phoronix.com/news/HP-EliteBook-X-G2q-Linux
 https://hawksley.dev/blog/json-ld-explained-for-personal-websites/
 https://www.phoronix.com/news/AMD-Early-GCN-Better-Recovery
 https://www.phoronix.com/review/bcachefs-1386
+https://store.steampowered.com/hardware/steammachine
