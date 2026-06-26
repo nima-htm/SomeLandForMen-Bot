@@ -66,3 +66,4 @@ https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-ca
 https://om.co/2026/06/24/1966-2026/
 https://www.linuxtoday.com/blog/mx-linux-25-2-released-with-linux-7-0-ahs-kernel/
 https://www.phoronix.com/news/Linux-7.2-x86-Platform-Drivers
+https://www.infoq.com/news/2026/06/vercel-eve-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
