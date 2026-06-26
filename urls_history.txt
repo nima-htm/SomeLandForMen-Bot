@@ -65,3 +65,4 @@ https://www.omgubuntu.co.uk/2026/06/ubuntu-livepatch-arm64
 https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/
 https://om.co/2026/06/24/1966-2026/
 https://www.linuxtoday.com/blog/mx-linux-25-2-released-with-linux-7-0-ahs-kernel/
+https://www.phoronix.com/news/Linux-7.2-x86-Platform-Drivers
